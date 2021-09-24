@@ -1,7 +1,7 @@
 
 
 
-<center><img src="https://b.top4top.io/p_2093mcngj0.png" width="80px" alt=""><h1>السلام عليكم <img src="https://b.top4top.io/p_2093mcngj0.png" width="80px" alt=""><br></h1>
+<h1 align="center">السلام عليكم <img src="https://b.top4top.io/p_2093mcngj0.png" width="80px" alt=""><br></h1>
 <p align="center">
   <img src="https://thumbs.gfycat.com/ImaginaryUnfitAgouti-size_restricted.gif" />
 </p>
