@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 
-- 👼 My name is Fatij Arridho
+- 👼 My name is Fatih Arridho
 - 🗣️ I am 15 years old 
 - 🔭 I am not programmer
 
@@ -30,9 +30,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
-### Pubg mobile 🎮
+### Free Fire Mobile 🎮
 <p align="center">
-  <img src="https://github.com/zeeoneofc/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
+  <img src="https://wallpaperaccess.com/full/6381105.jpg" />
 </p>
 
 ------
