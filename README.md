@@ -1,5 +1,4 @@
 
-
 <!---
 FatihArridho/FatihArridho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -11,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 
-- 👼 My name is Fatih Arridho
+- 👼 My name is Fatij Arridho
 - 🗣️ I am 15 years old 
 - 🔭 I am not programmer
 
@@ -20,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 ------
 ### Connect with me ☎️
 <p align="center">
-  <a href="https://instagram.com/fatih_id"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://instagram.com/fatiharridho"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/message/PSH6TVWFFBQFL1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/fatih.arridho"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/fatihid_ofc"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
@@ -28,7 +27,7 @@ You can click the Preview link to take a look at your changes.
   <a name=zeeoneofc&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/zeeoneofc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/MFA_ID"><img src="https://img.shields.io/youtube/channel/subscribers/MFA_ID?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+View"></a>
+  <a href="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
 ### Pubg mobile 🎮
