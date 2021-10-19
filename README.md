@@ -51,8 +51,6 @@
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=fatiharridho.github.io&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=defacer.id&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatihsrridho&repo=Lord-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=zeeoneofc&theme=nightowl)
 
 
 <p align="center">
