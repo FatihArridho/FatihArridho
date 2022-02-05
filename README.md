@@ -9,7 +9,7 @@
 <p align="center">
 
 - 👼 My name is Fatih Arridho
-- 🗣️ I am 15 years old 
+- 🗣️ I am 16 years old 
 - 🔭 I am not programmer
 
 </p>
@@ -28,9 +28,9 @@
   <a href="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
-### Free Fire Mobile 🎮
+### Mobile Legends 🎮
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/6381105.jpg" />
+  <img src="https://d1x91p7vw3vuq8.cloudfront.net/image_upload/2020105/ax268kdhrxb3cxvfc8kiym.png" />
 </p>
 
 ------
