@@ -50,7 +50,7 @@
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=fatiharridho.github.io&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=defacer.id&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=dikaardnt&repo=hisoka-morou&theme=nightowl)
 
 
 <p align="center">
