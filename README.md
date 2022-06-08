@@ -9,7 +9,6 @@
 <p align="center">
 
 - 👼 My name is Fatih Arridho
-- 🗣️ I am 16 years old 
 - 🔭 I am anime lovers !
 
 </p>
