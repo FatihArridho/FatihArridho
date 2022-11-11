@@ -53,7 +53,7 @@
 <a href="https://github.com/zhwzein/Killua-Zoldyck">![github card](https://github-readme-stats.vercel.app/api/pin/?username=zhwzein&repo=killua-zoldyck&theme=dark)</a>
 <a href="https://github.com/adiwajshing/Baileys">![github card](https://github-readme-stats.vercel.app/api/pin/?username=adiwajshing&repo=baileys&theme=nightowl)</a>
 <a href="https://github.com/zeeone-ofc/Alphabot-Md">![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=alphabot-md&theme=dark)</a>
-<a href="https://github.com/FatihArridho/islamiah">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridh&repo=islamiah&theme=nightowl)</a>
+<a href="https://github.com/FatihArridho/islamiah">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=islamiah&theme=nightowl)</a>
 <a href="https://github.com/FatihArridho/pramuka">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=pramuka&theme=dark)</a>
 
 
