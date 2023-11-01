@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
 <p align="center">
   <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
@@ -51,8 +48,8 @@
 <a href="https://github.com/FatihArridho/brutal">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=brutal&theme=dark)</a>
 <a href="https://github.com/DikaArdnt/Hisoka-Morou">![github card](https://github-readme-stats.vercel.app/api/pin/?username=dikaardnt&repo=hisoka-morou&theme=nightowl)</a>
 <a href="https://github.com/zhwzein/Killua-Zoldyck">![github card](https://github-readme-stats.vercel.app/api/pin/?username=zhwzein&repo=killua-zoldyck&theme=dark)</a>
-<a href="https://github.com/adiwajshing/Baileys">![github card](https://github-readme-stats.vercel.app/api/pin/?username=adiwajshing&repo=baileys&theme=nightowl)</a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md">![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=alphabot-md&theme=dark)</a>
+<a href="https://github.com/WhiskeySockets/Baileys">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WhiskeySockets&repo=baileys&theme=nightowl)</a>
+<a href="https://github.com/zeeoneofficial/Alphabot-Md">![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofficial&repo=alphabot-md&theme=dark)</a>
 <a href="https://github.com/FatihArridho/islamiah">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=islamiah&theme=nightowl)</a>
 <a href="https://github.com/FatihArridho/pramuka">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=pramuka&theme=dark)</a>
 
