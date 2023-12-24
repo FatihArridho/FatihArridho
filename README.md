@@ -41,9 +41,9 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/fatiharridho"><img src="https://github-readme-stats.vercel.app/api?username=fatiharridho&show_icons=true&theme=juicyfresh"></a></p>
-<p align="center"><a href="https://github.com/fatiharridho"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiharridho&theme=juicyfresh&layout=compact"></a></p> 
-<p align="center"><a href="https://github.com/FatihArridho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FatihArridho&theme=juicyfresh&hide_border=false&date_format=%5BY%20%5DM%20j"></a></p>
+<p align="center"><a href="https://github.com/fatiharridho"><img src="https://github-readme-stats.vercel.app/api?username=fatiharridho&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/fatiharridho"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiharridho&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/FatihArridho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FatihArridho&theme=radical&hide_border=false&date_format=%5BY%20%5DM%20j"></a></p>
 <p align="center"><a href="https://github.com/FatihArridho"><img src="https://github-profile-trophy.vercel.app/?username=FatihArridho&theme=juicyfresh&row=4&column=5"></a></p>
 
 
