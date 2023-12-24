@@ -1,13 +1,13 @@
-<h1 align="center">Hi, Folks <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
+<h1 align="center">Hi Folks, I'm Fatih <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
 <p align="center">
   <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
 </p>
 
 <p align="center">
 
-- ♂️ My name is Fatih Arridho
-- ⛩️ I am anime lovers !
-- 🤠 I am 18 years old ◉‿◉
+- 🌆 Jakarta City
+- ⛩️ I'm anime lovers !
+- 🤠 I'm 18 years old ◉‿◉
 </p>
 
 ------
@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
 </p>
 
-### #127942 <b>GitHub Awards</b>
+### <summary>&#127942 <b>GitHub Awards</b></summary>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=fatiharridho)
 
