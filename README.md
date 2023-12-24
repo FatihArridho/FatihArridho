@@ -67,5 +67,9 @@
 </p>
 
 ### Thank You For Reading 💫
-
 ![Thanks](https://raw.githubusercontent.com/FatihArridho/FatihArridho/main/thank-you.png)
+
+
+### Support Me On ⚡
+Saweria: <a href="https://saweria.co/FatihArridho">here</a>
+Trakteer: <a href="https://trakteer.id/FatihArridho/tip">here</a>
