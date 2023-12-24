@@ -71,6 +71,6 @@
 
 
 ### Support Me On ⚡
-Saweria: <a href="https://saweria.co/FatihArridho">here</a>
+Saweria: <a href="https://saweria.co/FatihArridho" target="_blank">here</a>
 </br>
-Trakteer: <a href="https://trakteer.id/FatihArridho/tip">here</a>
+Trakteer: <a href="https://trakteer.id/FatihArridho/tip" target="_blank">here</a>
