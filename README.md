@@ -66,6 +66,6 @@
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
 </p>
 
-### 🏆 <b>GitHub Awards</b></br>
+### Thank You For Reading 💫
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=fatiharridho)
+![Thanks](https://raw.githubusercontent.com/FatihArridho/FatihArridho/main/thank-you.png)
