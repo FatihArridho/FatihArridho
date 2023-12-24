@@ -66,7 +66,3 @@
 ### 🏆 <b>GitHub Awards</b></br>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=fatiharridho)
-
-### 🏆 <b>GitHub Activity</b></br>
-
-![Metrics](https://metrics.lecoq.io/fatiharridho)
