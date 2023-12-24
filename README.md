@@ -72,4 +72,5 @@
 
 ### Support Me On ⚡
 Saweria: <a href="https://saweria.co/FatihArridho">here</a>
+</br>
 Trakteer: <a href="https://trakteer.id/FatihArridho/tip">here</a>
