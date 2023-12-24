@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
 </p>
 
-### <summary>&#127942 <b>GitHub Awards</b></summary>
+### &#127942 <b>GitHub Awards</b>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=fatiharridho)
 
