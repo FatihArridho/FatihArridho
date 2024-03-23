@@ -7,7 +7,7 @@
 
 - 🌆 Jakarta City
 - ⛩️ I'm anime lovers !
-- 🤠 I'm 18 years old ◉‿◉
+- 🤠 I'm koboy
 </p>
 
 ------
