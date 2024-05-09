@@ -22,11 +22,6 @@ i'm fatih arridho, u can call me idho. i love code cuz it's my hobby. i want to 
   <a href="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fatiharridho&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
-### My Waifu 😼
-<p align="center">
-  <img src="https://telegra.ph/file/ee07cffd31ecbbea12bbf.png" />
-</p>
-
 ------
 
 ### Spotify Playing 🎧
