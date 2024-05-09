@@ -1,8 +1,8 @@
 <h2 align="center">Hi Folks, I'm Fatih <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h2>
 <p align="center">
-  <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
-</p>
-
+  <a href="https://tih.is-a.dev">
+    <img alt="Github" height="200px" src="https://i.ibb.co/MRDYTtg/328110365-d40e653d-098f-43d9-b845-ea2c53ca1036.png">
+  </a>
 <p align="center">
 
 i'm fatih arridho, u can call me idho. i love code cuz it's my hobby. i want to become a full stack developer, aamiin.
