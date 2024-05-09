@@ -52,6 +52,7 @@ i'm fatih arridho, u can call me idho. i love code cuz it's my hobby. i want to 
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
 </p>
 
+<p align="center"><img src="https://lanyard.kyrie25.me/api/349528508118335488" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=FatihArridho&layout=compact&theme=tokyonight" /></p>
 
 ------
