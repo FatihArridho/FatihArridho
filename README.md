@@ -58,5 +58,4 @@ i'm fatih arridho, u can call me idho. i love code cuz it's my hobby. i want to 
 
 ### Support Me On ⚡
 - <a href="https://saweria.co/FatihArridho" target="_blank">Saweria</a>
-</br>
 - <a href="https://trakteer.id/FatihArridho/tip" target="_blank">Trakteer</a>
