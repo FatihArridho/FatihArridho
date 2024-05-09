@@ -39,23 +39,12 @@
 
 ------
 
-### Github Stats 🚀
+### Stats 🚀
 
 <p align="center"><a href="https://github.com/fatiharridho"><img src="https://github-readme-stats.vercel.app/api?username=fatiharridho&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/fatiharridho"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiharridho&theme=radical&layout=compact"></a></p> 
 <p align="center"><a href="https://github.com/FatihArridho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FatihArridho&theme=radical&hide_border=false&date_format=%5BY%20%5DM%20j"></a></p>
 <p align="center"><a href="https://github.com/FatihArridho"><img src="https://github-profile-trophy.vercel.app/?username=FatihArridho&theme=juicyfresh&row=4&column=5"></a></p>
-
-
-### My Project With Friends 🔭
-<a href="https://github.com/FatihArridho/brutal">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=brutal&theme=dark)</a>
-<a href="https://github.com/DikaArdnt/Hisoka-Morou">![github card](https://github-readme-stats.vercel.app/api/pin/?username=dikaardnt&repo=hisoka-morou&theme=nightowl)</a>
-<a href="https://github.com/zhwzein/Killua-Zoldyck">![github card](https://github-readme-stats.vercel.app/api/pin/?username=zhwzein&repo=killua-zoldyck&theme=dark)</a>
-<a href="https://github.com/WhiskeySockets/Baileys">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WhiskeySockets&repo=baileys&theme=nightowl)</a>
-<a href="https://github.com/zeeoneofficial/Alphabot-Md">![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeoneofficial&repo=alphabot-md&theme=dark)</a>
-<a href="https://github.com/FatihArridho/islamiah">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=islamiah&theme=nightowl)</a>
-<a href="https://github.com/FatihArridho/brainly.co.id">![github card](https://github-readme-stats.vercel.app/api/pin/?username=fatiharridho&repo=brainly.co.id&theme=dark)</a>
-<a href="https://github.com/Hisoka-Morrou/hisoka-baileys">![github card](https://github-readme-stats.vercel.app/api/pin/?username=hisoka-morrou&repo=hisoka-baileys&theme=nightowl)</a>
 
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
