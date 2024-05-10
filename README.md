@@ -58,5 +58,7 @@ i'm fatih arridho, u can call me idho. i love code cuz it's my hobby. i want to 
 ------
 
 ### Support Me On ⚡
-- <a href="https://saweria.co/FatihArridho" target="_blank">Saweria</a>
-- <a href="https://trakteer.id/FatihArridho/tip" target="_blank">Trakteer</a>
+<a href="https://saweria.co/FatihArridho" target="_blank">
+<p align="center"><img src="https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhomepage_characters.a1cf6cc4.svg&w=3840&q=75" height="200px" width="500px" alt="Saweria" /></p></a>
+<a href="https://trakteer.id/FatihArridho/tip" target="_blank">
+  <p align="center"><img src="https://trakteer-assets.sgp1.digitaloceanspaces.com/images/mix/trakteer-thumbnail.png" height="200px" width="500px" alt="Trakteer" /></p></a>
