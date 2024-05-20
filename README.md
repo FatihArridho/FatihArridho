@@ -3,7 +3,7 @@
   <a href="https://tih.is-a.dev">
     <img alt="Github" height="200px" src="https://i.ibb.co/MRDYTtg/328110365-d40e653d-098f-43d9-b845-ea2c53ca1036.png">
   </a>
-<p align="center">I'm Fatih Arridho, u can call me idho. I love code cuz it's my hobby. I live in Jakarta, Indonesia. I'm still studying high school at SMAN 102 JAKARTA. Pleased to meet you! 
+<p align="center">I'm Fatih Arridho, u can call me idho. I love code cuz it's my hobby. I live in Jakarta, Indonesia. I'm still studying high school at SMAN 102 JAKARTA. Pleased to meet you and have a nice day! ツ゚
 </p>
 
 ------
@@ -43,10 +43,10 @@
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+  <img src="https://lanyard.kyrie25.me/api/349528508118335488" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FatihArridho&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FatihArridho&theme=tokyonight" />
 </p>
-
-<p align="center"><img src="https://lanyard.kyrie25.me/api/349528508118335488" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=FatihArridho&layout=compact&theme=tokyonight" /></p>
 
 ------
 
