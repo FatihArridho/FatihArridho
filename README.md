@@ -44,8 +44,8 @@
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
   <img src="https://lanyard.kyrie25.me/api/349528508118335488" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FatihArridho&layout=compact&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FatihArridho&theme=tokyonight" />
+  <a href="https://wakatime.com/@FatihArridho" target="_blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=FatihArridho&layout=compact&theme=tokyonight" /></a>
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FatihArridho&theme=tokyonight" /></a>
 </p>
 
 ------
