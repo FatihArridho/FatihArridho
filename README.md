@@ -24,8 +24,9 @@
 
 ### Spotify Playing 🎧
 
-<p align="center">
-  <a href="https://open.spotify.com/user/nf3xjkwb8gsuq2b0t8bimjt58" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+<p align="center"><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316m3wiufpbsdsm3ajum6abwl3gi&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316m3wiufpbsdsm3ajum6abwl3gi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
+  </a>
 </p>
 
 ------
