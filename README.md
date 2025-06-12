@@ -3,7 +3,7 @@
   <a href="https://tih.is-a.dev">
     <img alt="Github" height="200px" src="https://i.ibb.co/MRDYTtg/328110365-d40e653d-098f-43d9-b845-ea2c53ca1036.png">
   </a>
-<p align="center">I'm Fatih Arridho, u can call me idho. I love code cuz it's my hobby. I live in Jakarta, Indonesia. I'm still studying high school at SMAN 102 JAKARTA. Pleased to meet you and have a nice day! ツ゚
+<p align="center">I'm Fatih Arridho, u can call me fae. I love code cuz it's my hobby. Pleased to meet you and have a nice day! ツ゚
 </p>
 
 ------
